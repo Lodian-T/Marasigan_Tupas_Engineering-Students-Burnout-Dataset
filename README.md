@@ -40,10 +40,8 @@ that engineering students undergo or experience throughout their journey.
 - List preprocessing steps you applied, in the same order as your flowchart.
 
 ## 5. Visualizations
-- Total: **10**
-- Short description + insight for each plot.
-- <img width="1522" height="563" alt="IMAGE1" src="https://github.com/user-attachments/assets/e31b6144-0fbf-41de-919b-351cd5cd45f0" />
-- <center> This missingness plot appears to show that there are no missing values in the dataset.
+<img width="1522" height="563" alt="IMAGE1" src="https://github.com/user-attachments/assets/e31b6144-0fbf-41de-919b-351cd5cd45f0" />
+<center> This missingness plot appears to show that there are no missing values in the dataset. </center>
 
 
 
