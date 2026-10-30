@@ -1,20 +1,34 @@
-# 📑 Group README Template
+# Marasigan_Tupas_Engineering-Students-Burnout-Dataset 
 
-Each group must include a `README.md` file inside their folder. Use this format:
+## 👥 GROUP INTRODUCTION
 
-## 1. Group Information
-- **Group Name:**
-- **Members:**
-- **Assigned Theme:**
-- **Topic:**
+| Name | Student Number | Section |
+|---|---|---|
+| Marasigan, Alden | 23-07009 | MEXE-4101 |
+| Tupas, Lodian | 23-05226 | MEXE-4101 |
+  
+### Assigned Theme:
+*Engineering*
 
-## 2. Project Overview
-- **Dataset Title:**
-- **Source (URL or reference):**
-- **License/Attribution:**
-- **Objective:** (1 or 2 sentences about what you want to show with this dataset)
+### Topic:
+Relationship Between Backlogs and Stress Levels of Engineering Students
 
-## 3. Flowchart
+---
+
+## 🛠️ PROJECT OVERVIEW
+
+| Dataset Title | Source | License |
+|---|---|---|
+| Engineering Academic Pressure Dataset | *https://www.kaggle.com/datasets/prince7489/engineering-academic-pressure-dataset* | CC0: Public Domain |
+
+### Objective: 
+```markdown
+This project focuses on identifying the underlying relationships between different academic efforts and lapses
+that engineering students undergo or experience throughout their journey.
+```
+---
+
+## 📈 FLOWCHART
 - Embed your flowchart image here:
   ```markdown
   ![Preprocessing Flowchart](flowchart/Topic_Flowchart_Pair1Surname_Pair2Surname.png)
