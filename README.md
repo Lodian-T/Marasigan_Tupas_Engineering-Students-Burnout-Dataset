@@ -41,7 +41,7 @@ that engineering students undergo or experience throughout their journey.
 
 ## 5. Visualizations
 <img width="1522" height="563" alt="IMAGE1" src="https://github.com/user-attachments/assets/e31b6144-0fbf-41de-919b-351cd5cd45f0" />
-<p align="center"> This missingness plot appears to show that there are no missing values in the dataset. </p>
+<p align="center"> The missingness plot shows no red markers that symbolize missing values. It means the data is complete </p>
 
 
 
