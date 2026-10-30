@@ -44,6 +44,11 @@ that engineering students undergo or experience throughout their journey.
 <p align="center"> The missingness plot shows no red markers that symbolize missing values. It means the data is complete </p>
 
 
+<img width="1412" height="477" alt="IMAGE2" src="https://github.com/user-attachments/assets/0ba2d866-27bc-40dc-8c72-f5d2d8e08b30" />
+<p align="center"> The backlog histogram and stress histogram show that almost all the values are within a 20 or so range of each other. This means that the values are more or less evenly spread. 
+
+<img width="1082" height="752" alt="IMAGE3" src="https://github.com/user-attachments/assets/b7b29c4d-bff0-4223-92e2-5e8ed72c0d4d" />
+<p align="center"> The KDE Plot show
 
 ## 6. Key Insights
 - 3 to 5 main findings from your data.
