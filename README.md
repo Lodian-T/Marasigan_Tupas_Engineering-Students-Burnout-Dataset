@@ -33,8 +33,19 @@ that engineering students undergo or experience throughout their journey.
 |---|
   |<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/6888e30d-f959-4ebe-ab90-dd8f38cffa2a" />|
 
-- **Decisions in our flowchart:** list each decision diamond and what you chose on each branch.
-- **Changes we made:** if the code ended up different from your first flowchart, say what changed and why.
+| Decisions in the Flowchart | Decisions Made | 
+|---|---|
+|<img width="585" height="165" alt="image" src="https://github.com/user-attachments/assets/d59677c7-f697-46ba-9dc7-f2f3fa0540ed" />| Since there are no missing values in our data, we chose NO and did not perform any action yet.|
+|<img width="810" height="237" alt="image" src="https://github.com/user-attachments/assets/07ff2d2f-d7f1-480d-8cd7-cc7881e7d6e1" />| There were also no duplicating rows in the data, therefore we also chose NO and did not perform any acton regarding this.|
+|<img width="763" height="297" alt="image" src="https://github.com/user-attachments/assets/ee640ca5-215b-46cb-b5fd-a376c9543668" />| There were no visible outliers in the data, therefore we chose NO and did not perform any acton regarding this.|
+
+### Changes Perfomored
+```markdown
+  Upon checking the flowchart in comparison to the code, the students noticed that they did not save the cleaned or
+  preprocessed data and just proceeded in using the original file in the visualization portion. The students noticed
+  that upon applying the preprocessing techniques, there were no issues with the data (missing data, duplicating rows, and outliers).
+```
+---
 
 ## 🖋️ PREPROCESSING SUMMARY
 | Preprocessing method | Description | 
