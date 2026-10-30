@@ -36,8 +36,11 @@ that engineering students undergo or experience throughout their journey.
 - **Decisions in our flowchart:** list each decision diamond and what you chose on each branch.
 - **Changes we made:** if the code ended up different from your first flowchart, say what changed and why.
 
-## 4. Preprocessing Summary
-- List preprocessing steps you applied, in the same order as your flowchart.
+## 🖋️ PREPROCESSING SUMMARY
+| Preprocessing method | Description | 
+|---|---|
+| Imputation and Scaling: numerical_transformer = Pipeline(steps=[('imputer', SimpleImputer(strategy='median')), ('scaler', StandardScaler())| These preprocessing methods basically focuses on preprocessing numerical columns, eliminating missing data as well as organizing magnitudes.| 
+| Imputation and Oneshot encoding: categorical_transformer = Pipeline(steps=[('imputer', SimpleImputer(strategy='constant', fill_value='missing')),('onehot', OneHotEncoder(handle_unknown='ignore'))| These preprocessing methods focuses on preprocessing categorical columns, eliminating missing data as well as converting categorical data into binary values (1 and 0).| 
 
 ## 5. Visualizations
 <img width="1522" height="563" alt="IMAGE1" src="https://github.com/user-attachments/assets/e31b6144-0fbf-41de-919b-351cd5cd45f0" />
