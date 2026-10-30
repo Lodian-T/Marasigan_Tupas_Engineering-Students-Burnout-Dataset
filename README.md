@@ -42,6 +42,9 @@ that engineering students undergo or experience throughout their journey.
 ## 5. Visualizations
 - Total: **10**
 - Short description + insight for each plot.
+- <img width="1522" height="563" alt="IMAGE1" src="https://github.com/user-attachments/assets/e31b6144-0fbf-41de-919b-351cd5cd45f0" />
+
+
 
 ## 6. Key Insights
 - 3 to 5 main findings from your data.
