@@ -29,10 +29,10 @@ that engineering students undergo or experience throughout their journey.
 ---
 
 ## 📈 FLOWCHART
-- Embed your flowchart image here:
-  ```markdown
-  ![Preprocessing Flowchart](flowchart/Topic_Flowchart_Pair1Surname_Pair2Surname.png)
-  ```
+| Finalized Flowchart | 
+|---|
+  |<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/6888e30d-f959-4ebe-ab90-dd8f38cffa2a" />|
+
 - **Decisions in our flowchart:** list each decision diamond and what you chose on each branch.
 - **Changes we made:** if the code ended up different from your first flowchart, say what changed and why.
 
